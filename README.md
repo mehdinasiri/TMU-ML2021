@@ -1,6 +1,6 @@
 # TMU Machine Learning Course - 2021
 
-### Instructor: Dr Rezghi
+### Instructor: [Dr. Mansoor Rezghi](http://mrezghi.ir/)
 
 #### Head TA: Mehdi Nasiri
 
